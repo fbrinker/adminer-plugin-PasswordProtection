@@ -3,7 +3,7 @@
  * The expected Password as SHA1 String
  * Replace the second parameter with your SHA1 hashed password
  */
-define('SHA1PASSWORD', 'be32d86e6c63566214e1340a450ea32c09c2717c');
+define('SHA1PASSWORD', 'b1a176653e9bf09e7aec98dae84b78a97d83466b');
 
 
 
