@@ -10,4 +10,5 @@ For more plugins visit the [Adminer Plugin Page](http://www.adminer.org/plugins/
 Follow the Plugin installation introduction at the [official adminer website](http://www.adminer.org/plugins/) and copy the PasswordProtection.php into your Adminer plugins folder.
 
 ### How to use
-...
+In line 6 of the plugin code, replace the predefined hash with your sha1 password hash.
+To generate a sha1 password hash, you can use online tools like [sha1-online](http://www.sha1-online.com/).
