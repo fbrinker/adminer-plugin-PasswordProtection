@@ -12,3 +12,6 @@ Follow the Plugin installation introduction at the [official adminer website](ht
 ### How to use
 In **line 6** of the plugin code, **replace** the predefined hash with **your** sha1 password **hash**.
 To generate your own sha1 password hash, you can use online tools like [sha1-online](http://www.sha1-online.com/).
+
+### Contribution
+Feel free to create pull requests. :)
