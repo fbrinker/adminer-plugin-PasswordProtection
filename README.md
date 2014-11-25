@@ -14,4 +14,4 @@ In **line 6** of the plugin code, **replace** the predefined hash with **your** 
 To generate your own sha1 password hash, you can use online tools like [sha1-online](http://www.sha1-online.com/).
 
 ### Contribution
-Feel free to create pull requests. :)
+Feel free to create forks and pull requests. :)
