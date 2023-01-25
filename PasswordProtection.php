@@ -54,7 +54,7 @@ class PasswordProtection {
 	 * Echo the login form
 	 */
 	private function ppEchoLoginForm() {
-		echo '<div style="text-align: center; background-color: #eee; padding: 50px; border: 1px solid #999; margin: 0px 30px 0px 20px;">
+		echo '<div style="text-align: center; padding: 50px; border: 1px solid #999; margin: 0px 30px 0px 20px;">
 			<form name="ppLoginForm" method="POST">
 				<h3 style="margin: 0px 0px 25px;">Password Protected Area</h3>
 				<label for="ppPassword">Password:</label>
